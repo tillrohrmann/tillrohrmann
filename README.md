@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=tillrohrmann&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=false" />
+
 ### Hi there 👋
 
 <!--
